@@ -1,0 +1,17 @@
+INSERT INTO futbol.Jugadores (idJugadores, Nombre, Equipo) VALUES
+(0, 'Everardo Flores Godoy', 1),
+(1, 'Daniel Flores Gómez', 1),
+(2, 'Martin Adalberto Estudillo Real', 1),
+(3, 'Elias Garcia Lopez', 1),
+(4, 'Alexis Haziel Fernandez Garcia', 1),
+(6, 'Jonathan Alejandro Cruz', 1),
+(7, 'Kevin Chavez Salcedo', 1),
+(8, 'Diego Everardo Flores Gómez', 1),
+(10, 'Daniel Neri Gómez', 1),
+(12, 'Luis A Perez Carrizales', 1),
+(14, 'Rene Robledo Robles', 1),
+(15, 'David Gonzalez Gómez', 1),
+(16, 'Diego Gomez Murguía', 1),
+(17, 'Jose Javier Neri Gomez', 1),
+(19, 'Jorge Ernesto Chavez lopez', 1),
+(20, 'Salvador Chavez Lopez', 1);
